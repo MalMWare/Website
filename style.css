@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: darkred;
+  }
+  
+  span {
+    display: inline-block;
+  }
+  
+#pics span {
+    border: 1px solid black;
+   
+  }
+
+#eren {
+ height: 100px;
+ width: 100px;
+}
+
+#pic {
+ height: 350px;
+ width: 900px;
+}
+
+#king {
+ height: 100px;
+ width: 100px;
+}
+
+#zeke {
+    height: 100px;
+    width: 100px;
+   }
+
+#reiner {
+    height: 100px;
+    width: 100px;
+}
